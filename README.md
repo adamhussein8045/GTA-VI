@@ -1,13 +1,11 @@
-# GTA VI HUB
+# GTA VI  
 
 A bilingual (English / Arabic), responsive fan-made GTA VI information website built with plain HTML, CSS and JavaScript.
 
 ## Run locally
-1. Extract the `GTA-VI-HUB` folder.
+1. Extract the `GTA-VI` folder.
 2. Open `index.html` in a modern browser.
 3. For the best local development experience, open the folder in VS Code and use a local static server (for example, the Live Server extension).
-
-No npm install, build step, framework, or API key is required.
 
 ## Project structure
 - `index.html` — page structure and content
