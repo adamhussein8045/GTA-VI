@@ -11,7 +11,6 @@ A bilingual (English / Arabic), responsive fan-made GTA VI information website b
 - `index.html` — page structure and content
 - `css/style.css` — visual design, responsive layout and RTL support
 - `js/script.js` — language switching, mobile navigation, gallery lightbox and streamer idea generator
-- `assets/images/` — reserved for local image assets
 
 ## Notes
 - This is an independent fan-made project, not affiliated with Rockstar Games.
